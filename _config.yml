@@ -6,10 +6,10 @@ url: "https://sivakrishna1777.github.io/" # the base hostname & protocol for you
 
 # User settings
 username: Siva Krishna Reddy
-user_description: Associate Data s=Scientist and machine learning enthusiast
+user_description: Associate Data Scientist and machine learning enthusiast
 email: sivakrishnareddy383@gmail.com
 twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
+github_username:  sivakrishna1777
 gplus_username:  lorem_ipsum
 disqus_username: lorem_ipsum
 
@@ -24,7 +24,7 @@ compress_html:
   clippings: all
   comments: all
   endings: []
-  profile: false
+  profile: true
 
 # Links to include in menu navigation
 # For external links add external: true
