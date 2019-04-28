@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: sivakrishna1777.github.io
+Token: 9f0ffb68e6d6c5b0b76d764e1247e4a17be9b1a34ce993e143eb513592785253

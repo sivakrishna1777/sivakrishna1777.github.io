@@ -18,11 +18,18 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:title/
 
+comments:
+provider: "facebook"
+    facebook:
+      appid : 853064575044667
+      num_posts : 20
+      colorscheme: "light"
+      order_by : "reverse_time"
 
 # html minify
 compress_html:
   clippings: all
-  comments: all
+  comments: true
   endings: []
   profile: false
 
