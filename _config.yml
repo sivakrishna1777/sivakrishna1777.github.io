@@ -1,15 +1,15 @@
 # Site settings
-title: Siva Krishna Machine Learning
-description: A blog about machine learning stuff
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://sivakrishna1777.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+title: Willian Justen - Desenvolvedor Front End
+description: A blog about lorem ipsum dolor sit amet
+baseurl: "/cards-jekyll-template" # the subpath of your site, e.g. /blog
+url: "https://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Siva Krishna Reddy
-user_description: Associate Data Scientist and machine learning enthusiast
-email: sivakrishnareddy383@gmail.com
+username: Lorem Ipsum
+user_description: Anon Developer at Lorem Ipsum Dolor
+email: anon@anon.com
 twitter_username: lorem_ipsum
-github_username:  sivakrishna1777
+github_username:  lorem_ipsum
 gplus_username:  lorem_ipsum
 disqus_username: lorem_ipsum
 
@@ -24,7 +24,7 @@ compress_html:
   clippings: all
   comments: all
   endings: []
-  profile: true
+  profile: false
 
 # Links to include in menu navigation
 # For external links add external: true
