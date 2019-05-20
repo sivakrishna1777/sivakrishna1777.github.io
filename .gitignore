@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-_site/
-.sass-cache/
-=======
-_site
-node_modules
-Gemfile*
->>>>>>> parent of 3af7ea0... change
