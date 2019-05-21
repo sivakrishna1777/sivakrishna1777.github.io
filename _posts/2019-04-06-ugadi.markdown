@@ -4,7 +4,7 @@ title:      Ugadi
 author:     Vemeswara Reddy
 tags: 		Ugadi
 subtitle:  	A small poem about ugadi
-category:  project1
+category:  project2
 ---
 # ఉగాది 
 
