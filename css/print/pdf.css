@@ -52,7 +52,7 @@ html {
 /* SECTION 3: Set body font face, size, and color.
    Consider using a serif font for readability. */
 body, p, td, li, div {
-	font-size: 18pt;
+	font-size: 14pt;
 }
 
 /* SECTION 4: Set heading font face, sizes, and color.
