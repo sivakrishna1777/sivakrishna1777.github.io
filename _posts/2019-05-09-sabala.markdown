@@ -7,7 +7,6 @@ subtitle:  	A small poem about women
 category:  project1
 ---
 # సబల
-<br/>
 <div dir="ltr" style="text-align: left; line-height:1.6;" trbidi="on">
 అబల అబలయని సభలలో వాదనలేల <br />
 గుబులు పుట్టిన నీ మదిలోనంత బింకమేల<br />
