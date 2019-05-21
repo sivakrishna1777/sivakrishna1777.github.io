@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      Sabala
+title:      సబల
 author:     Vemeswara Reddy
-tags: 		Sabala
+tags: 		Sabala, సబల, women, స్రీ
 subtitle:  	A small poem about women
-category:  project1
+category:  project1 
 ---
 # సబల
 <div dir="ltr" style="text-align: left; line-height:1.6;" trbidi="on">
