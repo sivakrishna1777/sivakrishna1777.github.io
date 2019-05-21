@@ -28,7 +28,7 @@ category:  project1
 		</tr>
 		<tr>
 			<td></td>
-			<td> నడచి వచ్చెను నవ ఉగాదీ &emsp; &emsp; ||తెలుగు||</td>
+			<td> నడచి వచ్చెను నవ ఉగాదీ &emsp; &emsp; ||తెలుగు||<br/><br/></td>
 		</tr>
 		<tr>
 			<td></td>
