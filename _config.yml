@@ -15,7 +15,7 @@ logo: /sivakrishna1777.github.io/img/logos/ProjectPagesNewLogoInverted.png
 # Tertiary Parameters
 github_username:  sivakrishna1777
 project_repository: sivakrishna1777.github.io"
-disqus_shortname: project-pages
+disqus_shortname: /sivakrishna1777.github.io
 g-analytics: UA-75881392-1
 altmetric: true
 
@@ -106,7 +106,7 @@ prose:
       - name: "horizontal"
         field:
           element: "hidden"
-          value: </section></section><section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
+          value: </section></section><section markdown="1" data-background="http://projectpages.github.io//sivakrishna1777.github.io/img/slidebackground.png"><section markdown="1">
       - name: "vertical"
         field:
           element: "hidden"
@@ -114,7 +114,7 @@ prose:
       - name: "slideinit"
         field:
           element: "hidden"
-          value: <section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
+          value: <section markdown="1" data-background="http://projectpages.github.io//sivakrishna1777.github.io/img/slidebackground.png"><section markdown="1">
       - name: "theme"
         field:
           element: "select"
