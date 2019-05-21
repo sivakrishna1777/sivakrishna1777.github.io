@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Ugadi
+title:      ఉగాది
 author:     Vemeswara Reddy
-tags: 		Ugadi
+tags: 		Ugadi, ఉగాది
 subtitle:  	A small poem about ugadi
 category:  project2
 ---
