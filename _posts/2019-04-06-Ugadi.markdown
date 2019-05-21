@@ -48,7 +48,7 @@ category:  project1
 		</tr>
 		<tr>
 			<td></td>
-			<td>సర్వ జగతికి శుభములిచ్చును &emsp;&emsp; ||తెలుగు||</td>
+			<td>సర్వ జగతికి శుభములిచ్చును &emsp;&emsp; ||తెలుగు||<br/><br/></td>
 		</tr>
 		<tr>
 			<td></td>
@@ -68,7 +68,7 @@ category:  project1
 		</tr>
 		<tr>
 			<td></td>
-			<td>నేడు మనకు ఉగాది పండుగ &emsp; &emsp; ||తెలుగు||</td>
+			<td>నేడు మనకు ఉగాది పండుగ &emsp; &emsp; ||తెలుగు||<br/><br/></td>
 		</tr>
 		<tr>
 			<td></td>
@@ -88,7 +88,7 @@ category:  project1
 		</tr>
 		<tr>
 			<td></td>
-			<td>సర్వజీవుల సమత పండుగ &emsp; &emsp; ||తెలుగు||</td>
+			<td>సర్వజీవుల సమత పండుగ &emsp; &emsp; ||తెలుగు||<br/><br/></td>
 		</tr>
 		<tr>
 			<td></td>
@@ -108,7 +108,7 @@ category:  project1
 		</tr>
 		<tr>
 			<td></td>
-			<td>ఆచరించినయపుడె పండుగ &emsp; &emsp; ||తెలుగు||</td>
+			<td>ఆచరించినయపుడె పండుగ &emsp; &emsp; ||తెలుగు||<br/><br/></td>
 		</tr>
 		<tr>
 			<td></td>
@@ -128,7 +128,7 @@ category:  project1
 		</tr>
 		<tr>
 			<td></td>
-			<td> నేను కోరిన నిజ ఉగాదీ &emsp; &emsp; ||తెలుగు||</td>
+			<td> నేను కోరిన నిజ ఉగాదీ &emsp; &emsp; ||తెలుగు||<br/><br/></td>
 		</tr>
 		<tr>
 			<td></td>
@@ -148,7 +148,7 @@ category:  project1
 		</tr>
 		<tr>
 			<td></td>
-			<td>అవతరించిన నాడు పండుగ  &emsp; &emsp; ||తెలుగు||</td>
+			<td>అవతరించిన నాడు పండుగ  &emsp; &emsp; ||తెలుగు||<br/><br/></td>
 		</tr>
 		<tr>
 			<td></td>
@@ -168,7 +168,7 @@ category:  project1
 		</tr>
 		<tr>
 			<td></td>
-			<td> నిలిచినపుడే నిజ ఉగాది &emsp; &emsp; ||తెలుగు||</td>
+			<td> నిలిచినపుడే నిజ ఉగాది &emsp; &emsp; ||తెలుగు||<br/><br/></td>
 		</tr>
 		<tr>
 			<td></td>
